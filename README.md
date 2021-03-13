@@ -6,5 +6,6 @@
 
 
 
-[![Shinchan's wakatime stats]()]()
+
+
 
